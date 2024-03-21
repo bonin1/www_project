@@ -6,7 +6,7 @@ import pandas as pd
 import time
 
 # Set up OpenAI API
-openai.api_key = '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'
+openai.api_key = ''
 
 # Predefined SPARQL queries
 sparql_queries = [
